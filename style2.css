@@ -55,7 +55,7 @@ nav li:last-child::before {
 }
 header {
   background: url(./assets/img/bg.jpg) center/cover fixed;
-  min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   justify-content: center;
   align-items: center;
